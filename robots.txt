@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.umnew.cn/sitemap.xml
